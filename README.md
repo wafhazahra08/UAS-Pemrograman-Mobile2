@@ -2,7 +2,7 @@
 
 #### NAMA           : WAFHA ZAHRA MULQIYA
 
-#### NIM            : 31221057
+#### NIM            : 312210577
 
 #### KELAS          : TI.22.A5
 
